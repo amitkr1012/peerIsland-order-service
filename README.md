@@ -1,5 +1,4 @@
-# books-management
-PeerIsland Order Management Service
+# PeerIsland Order Management Service
 It is a web based RESTful API for a fictional order service that can perform the
 following functions:
 1. Create an order
